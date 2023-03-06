@@ -7,8 +7,9 @@ Flutter Forward is a conference for developers who want to learn about Flutter, 
 
 - Day 1: Introduction to Flutter
 - Day 2: Dart Basics and Flutter Xylophone
-- Day 3: Flutter Login/Singup UI with Firebase
-- Day 4: News App with Flutter
+- Day 3: Donation for Tommorow(Flutter and Firebase App) Part 1
+- Day 4: Donation for Tommorow(Flutter and Firebase App) Part 2
+
 
 
 > Flutter Forward Extended is a 4-day event. Each day, we will be releasing a new talk. Stay tuned!
